@@ -1,0 +1,15 @@
+*.swp
+*.pyc
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.lol
+*.fls
+*.out
+*.toc
+*.blg
+*.bbl
+*.fdb_latexmk
